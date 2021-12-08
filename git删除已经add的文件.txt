@@ -1,3 +1,4 @@
 $ git reset HEAD -- node_modules
 或（node_modules为文件名）
 $ git rm -r --cached node_modules
+再来一次
